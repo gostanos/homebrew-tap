@@ -4,8 +4,8 @@
 class Smallprint < Formula
   desc "Lists the MCP servers and agent skills your agents run, and what changed"
   homepage "https://smallprint.dev"
-  url "https://registry.npmjs.org/smallprint/-/smallprint-0.1.5.tgz"
-  sha256 "ba16ec39e6a0545f1dd646ec4950c47c1a06fb4842ca2267f898b099c68ef0e2"
+  url "https://registry.npmjs.org/smallprint/-/smallprint-0.1.6.tgz"
+  sha256 "40aec4ddeadf91b28793d448ed431da156e517d0e5d620aaf0c16b8124877b52"
   license "MIT"
 
   depends_on "node"
